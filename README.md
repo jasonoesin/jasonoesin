@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">Subject Coordinator on Software Laboratory Center (Binus University)</h3>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Mobile Development, Mobile Penetration Testing, Speech Recognition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

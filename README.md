@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">Laboratory Assistant on Software Laboratory Center (Binus University)</h3>
+<h3 align="center">Subject Coordinator on Software Laboratory Center (Binus University)</h3>
 
 - 🌱 I’m currently learning **Android**
 
